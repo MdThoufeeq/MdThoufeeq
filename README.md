@@ -63,9 +63,8 @@ A cloud-connected accident detection project using ESP32-CAM and sensor-based mo
 Chennai International Airport, Airports Authority of India (AAI)  
 Exposure to airport communication, navigation, surveillance, radar, ILS, and ATC systems.
 
-**PCB Design and SMT Manufacturing Intern**  
+**PCB Design and SMT Manufacturing Intern** — *June 2025 – July 2025* 
 AV Elecauto Pvt. Ltd.  
-*June 2025 – July 2025*  
 Hands-on exposure to PCB design using EAGLE CAD and SMT manufacturing processes, including component placement, reflow soldering, and PCB inspection.
 
 ## Certifications

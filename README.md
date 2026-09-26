@@ -67,11 +67,11 @@ AV Elecauto Pvt. Ltd.
 
 ## Certifications
 
-- Cambridge Linguaskill — CEFR B2
-- NPTEL — English Language for Competitive Exams (Elite)
-- Presentation Skills — Harvard Business Impact
-- Cisco Networking Basics
+- Cisco Networking Basics — Cisco
 - C Programming — Spoken Tutorial, IIT Bombay
+- English Language for Competitive Exams (Elite) — NPTEL
+- Cambridge Linguaskill — CEFR B2
+- Presentation Skills — Harvard Business Impact
 - Microsoft Power BI
 
 ## Contact

@@ -77,6 +77,7 @@ AV Elecauto Pvt. Ltd.
 ## Contact
 
 - Email: mohammedthoufeeq2006ali@gmail.com
+- LinkedIn: [Mohammed Thoufeeq Ali S M](https://www.linkedin.com/in/mohammed-thoufeeq-ali-sm/)
 - GitHub: [MdThoufeeq](https://github.com/MdThoufeeq)
 
 ---

@@ -59,9 +59,8 @@ A cloud-connected accident detection project using ESP32-CAM and sensor-based mo
 
 ## Experience
 
-**Airport Communication, Navigation and Air Traffic Systems Intern**  
+**Airport Communication, Navigation and Air Traffic Systems Intern**                                     *May 2026 – June 2026*  
 Chennai International Airport, Airports Authority of India (AAI)  
-*May 2026 – June 2026*  
 Exposure to airport communication, navigation, surveillance, radar, ILS, and ATC systems.
 
 **PCB Design and SMT Manufacturing Intern**  

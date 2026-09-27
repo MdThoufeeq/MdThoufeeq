@@ -1,6 +1,6 @@
 # Mohammed Thoufeeq Ali S M
 
-**Embedded Systems | PCB Design | ESP32 | Python | Artificial Intelligence**
+**ECE Student | Embedded Systems | PCB Design | Communication Systems | Python | Artificial Intelligence**
 
 I am a student at B.S. Abdur Rahman Crescent Institute of Science and Technology with an interest in embedded systems, electronics, PCB design, communication systems, Python, and artificial intelligence.
 
